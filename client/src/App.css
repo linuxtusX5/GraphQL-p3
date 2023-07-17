@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.con{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  position: relative;
+}
+.Messages{
+  padding: 11px;
+  margin-right: 10px;
+  border-radius: 5px;
+  width: 50%;
+}
